@@ -11,3 +11,4 @@ dependencies = []
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
+socialdata = ["httpx>=0.27"]
